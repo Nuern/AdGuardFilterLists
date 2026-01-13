@@ -1,5 +1,5 @@
 ! Title: Adobe Services
-! See here: https:\/\/helpx.adobe.com\/de\/enterprise\/kb\/network-endpoints.html
+! See here: https://helpx.adobe.com/de/enterprise/kb/network-endpoints.html
 ! 
 ||lm.licenses.adobe.com^
 ||resources.licenses.adobe.com^
